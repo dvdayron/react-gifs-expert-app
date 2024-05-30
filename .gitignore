@@ -25,4 +25,4 @@ dist-ssr
 
 # Enviroment
 
-.env
+*.env
